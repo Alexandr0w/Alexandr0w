@@ -1,5 +1,5 @@
 ### Hi 👋, I am Alexander Alexandrov!
-### Currently I am studying C# programming language at SoftUni.
+## Currently I am studying C# programming language at SoftUni.
 
 ### -= Socials =-
 [![Facebook](https://img.shields.io/badge/Facebook-316FF6?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alexandr0w/)
@@ -7,8 +7,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandr0v/) 
 
 ### -= GitHub Stats =-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexandr0w&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandr0w&layout=compact&hide_border=true" /> |
-| ------------- | ------------- |
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexandr0w&theme=blueberry)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandr0w&layout=compact&theme=vision-friendly-dark))](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### -= My Certificates =-
 <table>
