@@ -2,10 +2,30 @@
 ### Currently I am studying C# programming language at SoftUni.
 
 ### -= Socials =-
-[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/alexandr0w/)
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/alexandrow__/) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandr0v/) 
+[![Facebook](https://img.shields.io/badge/Facebook-316FF6?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alexandr0w/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandrow__/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandr0v/) 
 
 ### -= GitHub Stats =-
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexandr0w&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandr0w&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
+
+### -= My Certificates =-
+<table>
+  <tr>
+    <th>Courses</th>
+    <th>Certificates</th>
+  </tr>
+  <tr>
+    <td><a href="https://softuni.bg/trainings/4409/programming-basics-with-csharp-january-2024">Programming Basics with C#</a></td>
+    <td><a href="https://softuni.bg/certificates/details/203916/4ee24f16">Completed ✔️</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://softuni.bg/trainings/4502/programming-fundamentals-with-csharp-may-2024">C# Fundamentals</a></td>
+    <td><a href="https://softuni.bg/certificates/details/222311/07324103">Completed ✔️</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://softuni.bg/trainings/4696/csharp-advanced-september-2024">C# Advanced</a></td>
+    <td><a href="https://softuni.bg/certificates/details/227795/75ddd65e">Completed ✔️</a></td>
+  </tr>
+</table>
