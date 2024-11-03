@@ -1,5 +1,5 @@
 ### Hi 👋, I am Alexander Alexandrov!
-## Currently I am studying C# programming language at SoftUni.
+### Currently I am studying C# programming language at SoftUni.
 
 ### -= Socials =-
 [![Facebook](https://img.shields.io/badge/Facebook-316FF6?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alexandr0w/)
