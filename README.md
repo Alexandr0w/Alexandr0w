@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandr0v/) 
 
 ### -= GitHub Stats =-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexandr0w&theme=blueberry)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alexandr0w&theme=blueberry-duo)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandr0w&layout=compact&theme=vision-friendly-dark))](https://github.com/anuraghazra/github-readme-stats)
