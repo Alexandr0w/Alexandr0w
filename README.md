@@ -31,4 +31,8 @@
     <td><a href="https://softuni.bg/trainings/4696/csharp-advanced-september-2024">C# Advanced</a></td>
     <td><a href="https://softuni.bg/certificates/details/227795/75ddd65e">Completed ✔️</a></td>
   </tr>
+  <tr>
+    <td><a href="https://softuni.bg/trainings/4697/csharp-oop-october-2024">C# OOP</a></td>
+    <td><a href="https://softuni.bg/certificates/details/231441/921d4a8f">Completed ✔️</a></td>
+  </tr>
 </table>
