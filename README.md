@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm **Alexander Alexandrov!</h1>
+<h1 align="center">👋 Hi, I'm Alexander Alexandrov!</h1>
 
 <p align="center">
   🎓 Currently studying <strong>C# Programming</strong> at <a href="https://softuni.bg/">SoftUni</a>.<br/>
