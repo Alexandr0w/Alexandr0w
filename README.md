@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Alexander Alexandrov!**
 
-🎓 Currently studying **C# Programming** at [SoftUni](https://softuni.bg/).  
-💻 Passionate about backend development, databases, and building modern applications with ASP.NET Core.
+<p>🎓 Currently studying **C# Programming** at [SoftUni](https://softuni.bg/).</p>  
+<p>💻 Passionate about backend development, databases, and building modern applications with ASP.NET Core.</p>
 
 ---
 
