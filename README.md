@@ -91,4 +91,9 @@
     <td><a href="https://github.com/Alexandr0w/SoftUni-Software-Engineering/tree/main/08.HTML%20%26%20CSS">🧩 Repo</a></td>
     <td><a href="https://softuni.bg/certificates/details/252847/7a97dfe3">✅ Completed</a></td>
   </tr>
+    <tr>
+    <td><a href="https://softuni.bg/trainings/5108/js-front-end-october-2025">JS Front-End</a></td>
+    <td><a href="https://github.com/Alexandr0w/SoftUni-Software-Engineering/tree/main/09.JS%20Front-End">🧩 Repo</a></td>
+    <td><a href="https://softuni.bg/certificates/details/254830/a58fe1c6">✅ Completed</a></td>
+  </tr>
 </table>
