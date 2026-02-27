@@ -96,4 +96,9 @@
     <td><a href="https://github.com/Alexandr0w/SoftUni-Software-Engineering/tree/main/09.JS%20Front-End">🧩 Repo</a></td>
     <td><a href="https://softuni.bg/certificates/details/254830/a58fe1c6">✅ Completed</a></td>
   </tr>
+  <tr>
+    <td><a href="https://softuni.bg/trainings/5212/software-engineering-and-devops-january-2026">Software Engineering and DevOps</a></td>
+    <td><a href="https://github.com/Alexandr0w?tab=repositories">🧩 Repo</a></td>
+    <td><a href="https://softuni.bg/certificates/details/257301/d8ae46b9">✅ Completed</a></td>
+  </tr>
 </table>
