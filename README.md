@@ -51,7 +51,7 @@
 
   <!-- C# COURSES -->
   <tr>
-    <td rowspan="6"><strong>🟣 C# Courses</strong></td>
+    <td rowspan="6"><strong>🟣 C#</strong></td>
     <td>
       <a href="https://softuni.bg/trainings/4409/programming-basics-with-csharp-january-2024">
         Programming Basics with C#
