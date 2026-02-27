@@ -1,258 +1,145 @@
-<h1 align="center">👋 Hi, I'm Alexander Alexandrov!</h1>
+<h1 align="center">Hi 👋 I'm Alexandеr Alexandrov</h1>
+<h3 align="center">Junior .NET Backend Developer</h3>
 
 <p align="center">
-  🎓 Currently studying <strong>C# Programming</strong> at <a href="https://softuni.bg/">SoftUni</a>.<br/>
-  💻 Passionate about backend development, databases, and building modern applications with <strong>ASP.NET Core</strong>.
+  ASP.NET Core • Entity Framework Core • MS SQL • Clean Architecture
 </p>
 
 ---
 
-<h2 align="center">🌐 Socials</h2>
-<p align="center">
-  <a href="https://www.facebook.com/alexandr0w/">
-    <img src="https://img.shields.io/badge/Facebook-316FF6?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/alexandrow__/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alexandr0v/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+## 👨‍💻 About Me
+
+- 🎯 Focused on **.NET Backend Development**
+- 🛠 Building real-world web applications with ASP.NET Core MVC
+- 🗄 Strong understanding of relational databases & data modeling
+- 🔐 Experience with authentication, authorization & role management
+- 💳 Integrated Stripe payments in production-like project
+
+Currently looking for a **Junior .NET Developer position**.
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 🛠 Tech Stack
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Alexandr0w&theme=blueberry-duo" alt="GitHub Streak"/>
-  </a>
-</p>
+### 💻 Backend
+- C#
+- .NET
+- ASP.NET Core MVC
+- Entity Framework Core
+- LINQ
+- Repository Pattern
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandr0w&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
-  </a>
-</p>
+### 🗄 Databases
+- MS SQL
+- Relational Database Design
+- Migrations
+- Query Optimization Basics
+
+### 🌐 Front-End
+- HTML
+- CSS
+- JavaScript
+
+### ⚙ Tools
+- Git
+- GitHub
+- Visual Studio
 
 ---
 
-<h2 align="center">🏅 My Certificates</h2>
+## 🚀 Featured Project
 
-<table align="center">
+# 🛒 PCShop – E-Commerce Platform (ASP.NET Core MVC)
 
-  <tr>
-    <th>Category</th>
-    <th>Course</th>
-    <th>Repository</th>
-    <th>Certificate</th>
-  </tr>
+A full-stack web application for managing and purchasing PC components.
 
-  <!-- C# COURSES -->
-  <tr>
-    <td rowspan="6"><strong>🟣 C# Courses</strong></td>
-    <td>
-      <a href="https://softuni.bg/trainings/4409/programming-basics-with-csharp-january-2024">
-        Programming Basics with C#
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Alexandr0w/SoftUni-Software-Engineering/tree/main/01.CSharp%20Programming%20Basics">
-        🔗 View Repo
-      </a>
-    </td>
-    <td>
-      <a href="https://softuni.bg/certificates/details/203916/4ee24f16">
-        📜 Certificate
-      </a>
-    </td>
-  </tr>
+### 🔹 Features
+- Product management (CRUD)
+- Admin & Manager panels
+- Role-based authorization
+- Pagination, filtering & sorting
+- Stripe payment integration
+- Clean layered architecture
 
-  <tr>
-    <td>
-      <a href="https://softuni.bg/trainings/4502/programming-fundamentals-with-csharp-may-2024">
-        C# Fundamentals
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Alexandr0w/SoftUni-Software-Engineering/tree/main/02.CSharp%20Fundamentals">
-        🔗 View Repo
-      </a>
-    </td>
-    <td>
-      <a href="https://softuni.bg/certificates/details/222311/07324103">
-        📜 Certificate
-      </a>
-    </td>
-  </tr>
+### 🔹 Technologies Used
+- ASP.NET Core MVC
+- Entity Framework Core
+- MS SQL
+- Repository Pattern
+- Bootstrap
 
-  <tr>
-    <td>
-      <a href="https://softuni.bg/trainings/4696/csharp-advanced-september-2024">
-        C# Advanced
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Alexandr0w/SoftUni-Software-Engineering/tree/main/03.CSharp%20Advanced">
-        🔗 View Repo
-      </a>
-    </td>
-    <td>
-      <a href="https://softuni.bg/certificates/details/227795/75ddd65e">
-        📜 Certificate
-      </a>
-    </td>
-  </tr>
+🔗 **Repository:**  
+👉 https://github.com/Alexandr0w/PCShop
 
-  <tr>
-    <td>
-      <a href="https://softuni.bg/trainings/4697/csharp-oop-october-2024">
-        C# OOP
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Alexandr0w/SoftUni-Software-Engineering/tree/main/04.CSharp%20OOP">
-        🔗 View Repo
-      </a>
-    </td>
-    <td>
-      <a href="https://softuni.bg/certificates/details/231441/921d4a8f">
-        📜 Certificate
-      </a>
-    </td>
-  </tr>
+---
 
-  <tr>
-    <td>
-      <a href="https://softuni.bg/trainings/4841/ms-sql-january-2025">
-        MS SQL
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Alexandr0w/SoftUni-Software-Engineering/tree/main/05.%D0%9CS%20SQL">
-        🔗 View Repo
-      </a>
-    </td>
-    <td>
-      <a href="https://softuni.bg/certificates/details/235828/0f489256">
-        📜 Certificate
-      </a>
-    </td>
-  </tr>
+## 🎓 Education – Software Engineering (SoftUni)
 
-  <tr>
-    <td>
-      <a href="https://softuni.bg/trainings/4842/entity-framework-core-february-2025">
-        Entity Framework Core
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Alexandr0w/SoftUni-Software-Engineering/tree/main/06.Entity%20Framework%20Core">
-        🔗 View Repo
-      </a>
-    </td>
-    <td>
-      <a href="https://softuni.bg/certificates/details/239840/55f29ea7">
-        📜 Certificate
-      </a>
-    </td>
-  </tr>
+<table>
+<tr>
+<th>Category</th>
+<th>Course</th>
+<th>Certificate</th>
+</tr>
 
-  <!-- ASP.NET -->
-  <tr>
-    <td rowspan="2"><strong>🔵 ASP.NET</strong></td>
-    <td>
-      <a href="https://softuni.bg/trainings/4953/asp-net-fundamentals-may-2025">
-        ASP.NET Fundamentals
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Alexandr0w/SoftUni-Software-Engineering/tree/main/07.ASP.NET">
-        🔗 View Repo
-      </a>
-    </td>
-    <td>
-      <a href="https://softuni.bg/certificates/details/245715/7f7e6221">
-        📜 Certificate
-      </a>
-    </td>
-  </tr>
+<tr>
+<td rowspan="4"><strong>C#</strong></td>
+<td>Programming Basics with C#</td>
+<td><a href="https://softuni.bg/certificates/details/203916/4ee24f16">View</a></td>
+</tr>
+<tr>
+<td>C# Fundamentals</td>
+<td><a href="https://softuni.bg/certificates/details/222311/07324103">View</a></td>
+</tr>
+<tr>
+<td>C# Advanced</td>
+<td><a href="https://softuni.bg/certificates/details/227795/75ddd65e">View</a></td>
+</tr>
+<tr>
+<td>C# OOP</td>
+<td><a href="https://softuni.bg/certificates/details/231441/921d4a8f">View</a></td>
+</tr>
 
-  <tr>
-    <td>
-      <a href="https://softuni.bg/trainings/4954/asp-net-advanced-june-2025">
-        ASP.NET Advanced
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Alexandr0w/PCShop">
-        🔗 View Repo
-      </a>
-    </td>
-    <td>
-      <a href="https://softuni.bg/certificates/details/248506/1120cb7a">
-        📜 Certificate
-      </a>
-    </td>
-  </tr>
+<tr>
+<td rowspan="2"><strong>Databases</strong></td>
+<td>MS SQL</td>
+<td><a href="https://softuni.bg/certificates/details/235828/0f489256">View</a></td>
+</tr>
+<tr>
+<td>Entity Framework Core</td>
+<td><a href="https://softuni.bg/certificates/details/239840/55f29ea7">View</a></td>
+</tr>
 
-  <!-- FRONT-END -->
-  <tr>
-    <td rowspan="2"><strong>🟢 Front-End</strong></td>
-    <td>
-      <a href="https://softuni.bg/trainings/5107/html-and-css-september-2025">
-        HTML & CSS
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Alexandr0w/SoftUni-Software-Engineering/tree/main/08.HTML%20%26%20CSS">
-        🔗 View Repo
-      </a>
-    </td>
-    <td>
-      <a href="https://softuni.bg/certificates/details/252847/7a97dfe3">
-        📜 Certificate
-      </a>
-    </td>
-  </tr>
+<tr>
+<td rowspan="2"><strong>ASP.NET</strong></td>
+<td>ASP.NET Fundamentals</td>
+<td><a href="https://softuni.bg/certificates/details/245715/7f7e6221">View</a></td>
+</tr>
+<tr>
+<td>ASP.NET Advanced</td>
+<td><a href="https://softuni.bg/certificates/details/248506/1120cb7a">View</a></td>
+</tr>
 
-  <tr>
-    <td>
-      <a href="https://softuni.bg/trainings/5108/js-front-end-october-2025">
-        JS Front-End
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Alexandr0w/SoftUni-Software-Engineering/tree/main/09.JS%20Front-End">
-        🔗 View Repo
-      </a>
-    </td>
-    <td>
-      <a href="https://softuni.bg/certificates/details/254830/a58fe1c6">
-        📜 Certificate
-      </a>
-    </td>
-  </tr>
-
-  <!-- DEVOPS -->
-  <tr>
-    <td><strong>🟠 DevOps</strong></td>
-    <td>
-      <a href="https://softuni.bg/trainings/5212/software-engineering-and-devops-january-2026">
-        Software Engineering and DevOps
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Alexandr0w?tab=repositories">
-        🔗 View Repo
-      </a>
-    </td>
-    <td>
-      <a href="https://softuni.bg/certificates/details/257301/d8ae46b9">
-        📜 Certificate
-      </a>
-    </td>
-  </tr>
+<tr>
+<td><strong>DevOps</strong></td>
+<td>Software Engineering & DevOps</td>
+<td><a href="https://softuni.bg/certificates/details/257301/d8ae46b9">View</a></td>
+</tr>
 
 </table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexandr0w&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandr0w&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/Alexandr0w
+- LinkedIn: (add your LinkedIn link here)
